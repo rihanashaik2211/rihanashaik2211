@@ -1,21 +1,19 @@
 # Hi 👋, I'm Rihana Shaik
 
-🎓 Computer Science Student | 🤖 AI & ML Enthusiast
+🎓 Final-year Computer Science Student | 🤖 AI & ML Enthusiast
 
-I am a final-year Computer Science student specializing in
-Artificial Intelligence and Machine Learning.
+I am a final-year Computer Science student specializing in Artificial Intelligence and Machine Learning.
 
-I enjoy building practical applications using Python,
-Machine Learning, React, and modern AI technologies.
+I enjoy building practical applications using Python, Machine Learning, React, and modern AI technologies.
 
 ## 🚀 About Me
 
 - 🎓 Final-year Computer Science student
 - 🤖 Interested in Artificial Intelligence & Machine Learning
-- 💻 Currently strengthening my Data Structures & Algorithms skills
+- 🐍 Currently improving my Python and DSA skills
 - 🔍 Interested in Pattern Recognition
-- 🌱 Exploring AI-powered application development
-- 🎯 Preparing for technical/software industry roles
+- 💻 Building practical AI-powered applications
+- 🚀 Preparing for technical/software industry roles
 
 ## 🛠️ Technical Skills
 
@@ -23,12 +21,17 @@ Machine Learning, React, and modern AI technologies.
 - Python
 - JavaScript
 
-### AI & Machine Learning
+### AI / Machine Learning
 - Machine Learning
-- Artificial Intelligence
+- TensorFlow
+- Keras
+- OpenCV
+- Scikit-learn
+- Pandas
+- NumPy
 
 ### Web Development
-- React
+- React.js
 - FastAPI
 - HTML
 - CSS
@@ -39,37 +42,59 @@ Machine Learning, React, and modern AI technologies.
 ### Tools
 - Git
 - GitHub
-- VS Code
+- Postman
+- Docker
 
 ## 📌 Featured Projects
 
-### 🍎 AI-Powered Food Freshness Monitoring Platform
+### 1. 🍎 AI-Powered Food Freshness Monitoring Platform
 
-An AI/ML-based platform for analyzing food freshness and
-monitoring food quality using image-based analysis and
-freshness-related parameters.
+A full-stack AI-powered platform developed as part of the **Infosys Springboard internship/project**.
 
-**Tech Stack:** Python, Machine Learning, React, FastAPI, PostgreSQL
+**Key Features:**
+- AI-based food freshness analysis
+- Computer vision
+- Spoilage detection
+- Freshness score calculation
+- Shelf-life estimation
+- Temperature & humidity monitoring
+- Inventory management
+- Batch management
+- Role-based dashboards
+- Alerts and recommendations
+- Analytics and reports
 
-### 💳 Credit Card Approval Prediction
+**Tech Stack:**  
+React.js • FastAPI • PostgreSQL • TensorFlow • Keras • OpenCV • Scikit-learn
 
-A machine learning project that predicts credit card approval
-based on applicant-related features and data.
+### 2. 💳 Credit Card Approval Prediction
 
-**Tech Stack:** Python, Machine Learning
+A machine learning project that predicts whether a credit card application is likely to be approved based on applicant-related features.
+
+**Key Concepts:**
+- Data preprocessing
+- Exploratory data analysis
+- Feature engineering
+- Machine learning
+- Model evaluation
+- Prediction
+
+**Tech Stack:**  
+Python • Pandas • NumPy • Scikit-learn • Matplotlib
 
 ## 📚 Currently Learning
 
 - Data Structures & Algorithms
 - Machine Learning
 - Artificial Intelligence
-- AI Application Development
+- Full-Stack Development
+- Generative AI
 
-## 🎯 Career Goal
+## 🤝 Connect With Me
 
-To start my career in the technical industry and contribute
-to building practical and impactful technology solutions.
+- 💼 LinkedIn: [Rihana Shaik](YOUR_LINKEDIN_URL)
+- 🐙 GitHub: [rihanashaik2211](YOUR_GITHUB_URL)
 
-## 📫 Connect With Me
+---
 
-🔗 [LinkedIn](https://www.linkedin.com/in/shaik-rihana-3216)
+⭐ Thanks for visiting my profile!
